@@ -1,0 +1,92 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: rgba(0, 0, 0, 0.55);
+}
+#a{
+    color: red;
+}
+#b{
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.55);
+}
+#soccer{
+    width: 180px;
+    height: auto;
+    display: block;
+}
+#call{
+    width: 180px;
+    height: auto;
+    display: block;
+}
+#p1{
+    width: 120px;
+    height: auto;
+    display: block;
+}
+#p2{
+    width: 180px;
+    height: auto;
+    display: block;
+}
+#p3{
+    width: 180px;
+    height: auto;
+    display: block;
+}
+#p4{
+    width: 180px;
+    height: auto;
+    display: block;
+}
+#p5{
+    width: 180px;
+    height: auto;
+    display: block;
+}
+#fd{
+    color :rgba(0, 0, 0, 0.47);
+}
+html {
+    background-image: url(微信图片_20241107214628.jpg);
+    background-size: cover; /* 覆盖整个区域 */
+    background-position: center; /* 图片居中显示 */
+    background-repeat: no-repeat; /* 不重复 */
+}
+header {
+    background-color: rgba(0, 105, 147, 0.22); /* 页眉的背景颜色 */
+    color: white; /* 文字颜色 */
+    padding: 10px 0; /* 上下内边距 */
+
+}
+
+header nav ul {
+    list-style: none; /* 去除列表的默认样式 */
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline; /* 使列表项水平排列 */
+    margin-right: 10px; /* 列表项之间的间距 */
+}
+
+header nav ul li a {
+    color: white; /* 链接文字颜色 */
+    text-decoration: none; /* 去除下划线 */
+    padding: 5px 10px; /* 链接周围的内边距 */
+}
+
+header nav ul li a:hover {
+    background-color: #555; /* 鼠标悬停时的背景颜色 */
+}
+li
+{
+    color: rgba(0, 0, 0, 0.47);
+}
+p{
+    color: rgba(0, 0, 0, 0.47);
+}
+ul{
+    color: rgba(0, 0, 0, 0.47);
+}
