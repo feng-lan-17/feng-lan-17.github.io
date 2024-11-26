@@ -1,0 +1,126 @@
+header nav ul {
+    list-style: none; /* 去除列表的默认样式 */
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline; /* 使列表项水平排列 */
+    margin-right: 10px; /* 列表项之间的间距 */
+}
+
+header nav ul li a {
+    color: #faf6f6; /* 链接文字颜色 */
+    text-decoration: none; /* 去除下划线 */
+    padding: 5px 10px; /* 链接周围的内边距 */
+}
+
+header nav ul li a:hover {
+    background-color: #555; /* 鼠标悬停时的背景颜色 */
+}
+html {
+    background-image: url(微信图片_20241107214201.jpg);
+    background-size: cover; /* 覆盖整个区域 */
+    background-position: center; /* 图片居中显示 */
+    background-repeat: no-repeat; /* 不重复 */
+}
+
+
+
+.quote-wall {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    font-family: 'CustomFont', sans-serif;
+}
+
+.quote {
+    max-width: 300px;
+    margin: 30px;
+    text-align: center;
+    font-family: 'CustomFont', sans-serif;
+}
+
+.quote p {
+    font-size: 4em;
+    margin: 0 0 30px 0;
+    color: #555;
+    font-family: 'CustomFont', sans-serif;
+}
+
+.quote cite {
+    display: block;
+    font-style: normal;
+    font-size: 2em;
+    color: #555555;
+    font-family: 'CustomFont', sans-serif;
+}
+h1
+{
+    text-align: center;
+    font-size: 60px;
+    color: rgba(0, 0, 0, 0.55);
+    font-family: 'CustomFont', sans-serif;
+}
+@font-face {
+    font-family: 'CustomFont';
+    src: url('钟齐志莽行书.ttf') format('truetype'); /* Safari, Android, iOS */
+
+    font-weight: normal;
+    font-style: normal;
+}
+#xixi
+{
+    font-family: 'CustomFont', sans-serif;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.71);
+}
+#xixi2
+{
+    font-family: 'CustomFont', sans-serif;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.71);
+}
+#xixi3
+{
+    font-family: 'CustomFont', sans-serif;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.71);
+}
+#xixi4
+{
+    font-family: 'CustomFont', sans-serif;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.71);
+}
+#xixi5
+{
+    font-family: 'CustomFont', sans-serif;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.71);
+}
+#xixi6
+{
+    font-family: 'CustomFont', sans-serif;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.71);
+}
+#k,
+#k1,
+#k2,
+#k3 {
+    color: #555555;
+    text-decoration: none;
+}
+
+#k:hover,
+#k1:hover,
+#k2:hover,
+#k3:hover {
+    color: crimson;
+}
+p{
+    font-family: 'CustomFont', sans-serif;
+    font-size: 40px;
+    color: #f6f7f8;
+}
